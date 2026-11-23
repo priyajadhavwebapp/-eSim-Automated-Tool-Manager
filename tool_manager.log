@@ -1,0 +1,3 @@
+2026-11-23 21:28:56,288 | INFO | Starting install for ngspice: ['winget', 'install', '--id', 'ngspice', '--exact', '--silent', '--accept-package-agreements', '--accept-source-agreements']
+2026-11-23 21:29:04,952 | ERROR | install failed for ngspice (exit 2316632084)
+2026-11-23 21:29:32,397 | INFO | Update check executed: ['winget', 'upgrade']
